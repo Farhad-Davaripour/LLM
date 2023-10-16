@@ -5,7 +5,7 @@ from configparser import ConfigParser
 import os
 
 parser = ConfigParser()
-_ = parser.read("./.env")
+_ = parser.read("./.cfg.ini")
 
 # gpt3 api key
 openai_api_key = parser.get("openai", "api_key")
