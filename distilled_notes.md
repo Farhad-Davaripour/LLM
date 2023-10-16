@@ -1,0 +1,2 @@
+# LangChain:
+It is a framework for developing applications that leverage language models. LangChain allows for chaining multiple events together to build an application which is crucial in application development which typically involves a chains of events (e.g., send a query, google search, etc.). Another useful class that LangChain offers is the PromptTemplate which adds functionalities to the prompt to be able to running multiple times with different inputs. Another once is the Chat Models which points at different LLMs allowing us to interact with them.
