@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
     summary_template = """
         given the information {information} about a person, go ahead and provide me with:
-        1. a sort summary
+        1. a short summary
         2. two interesting facts about them
     """
 
